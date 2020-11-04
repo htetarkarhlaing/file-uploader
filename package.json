@@ -4,7 +4,7 @@
   "description": "Backend API service for file uploader.",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon ."
+    "start": "node ."
   },
   "author": "Htet Arkar Hlaing",
   "license": "ISC",
